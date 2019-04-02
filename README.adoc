@@ -1,12 +1,6 @@
----
+# ¿Quieres proponer una charla? 
 
-<p align="center">
-  <b>
-    ¿Quieres proponer una charla? <a href="https://github.com/comunidad-groovy/madrid-gug/issues/new">Pulsa aquí para proponerla</a>
-  </b>
-</p>
-
----
+https://github.com/comunidad-groovy/madrid-gug/issues/new[Pulsa aquí para proponerla]
 
 En este repositorio se podrán proponer, mediante issues, posibles charlas, talleres, hackathones, etc. que se puedan desarrollar en la comunidad MadridGUG para tener un repositorio de propuestas de cara a futuras reuniones.
 
@@ -18,4 +12,4 @@ Cuando la charla esté definida buscaremos un espacio donde poder impartirla
 
 ## Código de conducta
 
-La comunidad se rige por un [código de conducta](https://github.com/comunidad-groovy/documentacion/blob/master/CODIGO_CONDUCTA.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
+La comunidad se rige por un https://github.com/comunidad-groovy/documentacion/blob/master/CODIGO_CONDUCTA.md[código de conducta] que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
