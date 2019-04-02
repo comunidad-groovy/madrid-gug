@@ -2,7 +2,7 @@
 
 https://github.com/comunidad-groovy/madrid-gug/issues/new[Pulsa aquí para proponerla]
 
-En este repositorio se podrán proponer, mediante issues, posibles charlas, talleres, hackathones, etc. que se puedan desarrollar en la comunidad MadridGUG para tener un repositorio de propuestas de cara a futuras reuniones.
+En este repositorio se podrán proponer, mediante issues, posibles charlas, talleres, hackathones, etc. que se puedan desarrollar en el grupo de usuarios groovy de Madrid https://madridgug.com[Madrid GUG] para tener un repositorio de propuestas de cara a futuras reuniones.
 
 Si tienes alguna charla que te apetezca dar, algún taller que te apetezca organizar, o alguna otra actividad que creas que pueda ser enriquecedora para la comunidad, crea una issue y quizá entre todos podamos darle forma y fecha a la idea.
 
