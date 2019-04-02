@@ -1,5 +1,7 @@
 # Propuesta de Actividad
 
+(Asegurate que has leído cómo proponer una actividad en https://github.com/comunidad-groovy/madrid-gug)
+
 ## Título
 
 > Escribe aquí el título de la actividad propuesta
